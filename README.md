@@ -1,7 +1,6 @@
 - 👋 hey, i’m amy
-- 👀 i’m an a-level student
-- 🌱 i study: business, cs, economics & psych
-- 💞️ i'm looking for IT/tech apprenticships starting sept '22!
+- 🌱 my alvls: business, cs, economics & psych
+- 💞️ i'm starting a software apprentiship sept '22!
 
 
 <!---
